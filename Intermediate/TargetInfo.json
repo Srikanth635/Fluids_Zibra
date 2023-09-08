@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ZibraDemo427",
+			"Path": "C:\\Users\\robcog\\workspace\\Malineni\\Unreal_Projects\\ZibraDemo427\\Source\\ZibraDemo427.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ZibraDemo427Editor",
+			"Path": "C:\\Users\\robcog\\workspace\\Malineni\\Unreal_Projects\\ZibraDemo427\\Source\\ZibraDemo427Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
