@@ -1,5 +1,5 @@
 # Fluids_Zibra
 
-![](water.gif)
+![](Videos/water.gif)
 
-![](viscous.gif)
+![](Videos/viscous.gif)
